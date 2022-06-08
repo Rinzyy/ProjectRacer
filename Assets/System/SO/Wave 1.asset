@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137235ffcaa0845a28b1a59b564d36d7, type: 3}
+  m_Name: Wave 1
+  m_EditorClassIdentifier: 
+  extraTime: 0
+  typeOfObstacle:
+  - isObject: 0
+    objectWaveName: 
+    isRandom: 0
+  - isObject: 1
+    objectWaveName: TaxiPool
+    isRandom: 1
+  - isObject: 0
+    objectWaveName: 
+    isRandom: 0
+  - isObject: 1
+    objectWaveName: TaxiPool
+    isRandom: 1
